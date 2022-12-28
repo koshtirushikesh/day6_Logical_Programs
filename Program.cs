@@ -6,11 +6,12 @@
         {
 
 
-            // FindNumber.DisplayFindNumber();
-            // ReverseNumber.Display();
-            // FibonacciSeries.DisplayFibonacciSeries();
-            // PrimeNumber.DisplayPrimeNumber();
-            // CouponNumbers.DisplayCouponNumber();
+            FindPerfectNumber.DisplayFindNumber();
+            ReverseNumber.Display();
+            FibonacciSeries.DisplayFibonacciSeries();
+            PrimeNumber.DisplayPrimeNumber();
+            CouponNumbers.DisplayCouponNumber();
+            StopwatchClaass.SimulateStopwatch();
 
         }
     }
